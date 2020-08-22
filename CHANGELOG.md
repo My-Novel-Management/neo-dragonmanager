@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.2.0] - 2020-08-22
+### Changed
+- StoryBuilder: v0.6.1
+
 ## [0.1.0] - 2020-04-28
 ### Added
 - old book
@@ -16,6 +20,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - README one line implemented.
 
 
-[Unreleased]: https://github.com/My-Novel-Management/neo-dragonmanager/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/My-Novel-Management/neo-dragonmanager/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/My-Novel-Management/neo-dragonmanager/releases/v0.2.0
 [0.1.0]: https://github.com/My-Novel-Management/neo-dragonmanager/releases/v0.1.0
 [0.0.1]: https://github.com/My-Novel-Management/neo-dragonmanager/releases/v0.0.1
